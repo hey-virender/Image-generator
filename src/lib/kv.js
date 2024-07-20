@@ -1,9 +1,9 @@
 // lib/kv.js
-import { KV } from "@vercel/kv";
+// import { KV } from "@vercel/kv";
 
-const kv = new KV({
-  namespace: "my-kv-namespace",
-  region: "iad1",
-});
+// const kv = new KV({
+//   namespace: "my-kv-namespace",
+//   region: "iad1",
+// });
 
-export default kv;
+// export default kv;
